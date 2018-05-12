@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5229
     wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Knox
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23995#The-Land-of-the-KangarooAdventures-of-Two-Youths-in-a-Journey-through-the-Great-Island-Contin_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2007-12-26'
 gutenberg_type: Text
